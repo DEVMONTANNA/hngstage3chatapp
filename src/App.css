@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+.chatScreen {
+  background-image: url(../public/background.jpg);
+  background-size: cover;
+}
+
+@media screen and (max-width: 1024px) {
+  .gg {
+    width: 100%;
+  }
+}
